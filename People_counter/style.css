@@ -1,0 +1,50 @@
+body{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 70px;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: beige;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+#increment-btn{
+    background-color: rgb(248, 163, 163);
+
+}
+
+#increment-btn:hover{
+    background-color: darkred;
+    color: white;
+    transition: 0.5s;
+}
+
+#save-btn {
+    background-color: rgb(104, 182, 104);
+
+}
+
+#save-btn:hover {
+    background-color: darkgreen;
+    color: white;
+    transition: 0.5s;
+}
+
+
